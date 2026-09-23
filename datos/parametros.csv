@@ -1,0 +1,13 @@
+parametro;mes_o_centro;valor;unidad
+capacidad_adquisicion;1;2400;dosis/mes
+capacidad_adquisicion;2;2400;dosis/mes
+capacidad_adquisicion;3;2400;dosis/mes
+costo_adquisicion;1;3100;$/dosis
+costo_adquisicion;2;3400;$/dosis
+costo_adquisicion;3;3900;$/dosis
+costo_envio;R1;480;$/dosis
+costo_envio;R2;760;$/dosis
+costo_almacenamiento_laboratorio;-;90;$/dosis-mes
+costo_almacenamiento_centro;-;140;$/dosis-mes
+capacidad_bodega_laboratorio;-;1200;dosis
+capacidad_bodega_centro;-;500;dosis
