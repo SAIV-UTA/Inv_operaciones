@@ -1,7 +1,7 @@
-Instancia C - Salud
+# Instancia C - Salud
 
-Integrante: Eyleen Spencer Yates
-Integrante: Sebástian Ibarra Vera
+**Integrante: Eyleen Spencer Yates**  
+**Integrante: Sebástian Ibarra Vera**  
 
 # Equipo C
 # Salud. Abastecimiento de insumos
