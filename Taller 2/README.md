@@ -19,7 +19,7 @@ Con los datos del hospital tal como son, **la brecha de la relajación es nula e
 
 ```
 ├── README.md                 este documento
-├── Taller2_Oxigeno.ipynb     cuaderno de resultados: reproduce todas las tablas y figuras
+├── Taller_2_Abastecimiento_Oxigeno.ipynb     cuaderno de resultados: reproduce todas las tablas y figuras
 ├── requirements.txt          versiones de las bibliotecas y del solver
 └── figuras/                  figuras de este README, generadas por el cuaderno
 ```
@@ -34,7 +34,7 @@ Las instancias no se almacenan aparte: las produce un generador determinista den
 
 ```bash
 pip install -r requirements.txt
-jupyter nbconvert --to notebook --execute Taller2_Oxigeno.ipynb
+jupyter nbconvert --to notebook --execute Taller_2_Abastecimiento_Oxigeno.ipynb
 ```
 
 **Escenarios.** La celda de configuración (sección 2 del cuaderno) define `ESCENARIO = "ampliado"`, el caso principal. Con `ESCENARIO = "real"` se reproduce el caso base. Cada escenario escribe sus resultados en su propia carpeta.
