@@ -4,6 +4,9 @@
 
 **Investigación de Operaciones** · Doctorado en Ingeniería, consorcio UV–UTA · Octubre de 2026
 **Integrantes:** Eyleen Spencer Yates · Sebastián Ibarra Vera
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPOSITORIO/blob/main/Taller2_Oxigeno.ipynb)
+
 ---
 
 ## Resumen
